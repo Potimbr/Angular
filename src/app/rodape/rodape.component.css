@@ -1,0 +1,15 @@
+h1 {
+    text-align: center;
+}
+
+
+form {
+    
+    width: 400px; 
+    height: 150px; 
+    left: 35%; 
+   
+    padding:20px;
+    position: relative; 
+    top: 50%;
+}
